@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="11cm" height="17cm" viewBox="361 -215 219 338" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="458.5" y="-89">
+    <tspan x="458.5" y="-89"></tspan>
+  </text>
+  <g>
+    <polygon style="fill: #ffffff" points="387.779,-133 579,-133 564.805,-94 373.584,-94 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="387.779,-133 579,-133 564.805,-94 373.584,-94 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="476.292" y="-108.7">
+      <tspan x="476.292" y="-108.7">Input the first Number - A</tspan>
+    </text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="469.5" cy="-187.127" rx="89.5" ry="26.1267"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="469.5" cy="-187.127" rx="89.5" ry="26.1267"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="469.5" y="-182.327">
+      <tspan x="469.5" y="-182.327">Start</tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="377.459,-66.2 572.082,-66.2 557.524,-26.2 362.9,-26.2 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="377.459,-66.2 572.082,-66.2 557.524,-26.2 362.9,-26.2 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="467.491" y="-41.4">
+      <tspan x="467.491" y="-41.4">Input the Second Number - B</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="369" y="4" width="196" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="369" y="4" width="196" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="467" y="27.8">
+      <tspan x="467" y="27.8">C = A +B</tspan>
+    </text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="467" cy="95.9267" rx="89.5" ry="26.1267"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="467" cy="95.9267" rx="89.5" ry="26.1267"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="467" y="100.727">
+      <tspan x="467" y="100.727">End</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="469.5" y1="-161" x2="469.18" y2="-143.734"/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="469.041,-136.236 464.227,-146.327 469.18,-143.734 474.226,-146.141 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="466.657" y1="-94.0094" x2="466.955" y2="-76.8979"/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="467.086,-69.399 461.913,-79.3103 466.955,-76.8979 471.911,-79.4848 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="467.281" y1="-25.1975" x2="467.097" y2="-6.73558"/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="467.022,0.764043 462.122,-9.28537 467.097,-6.73558 472.122,-9.18555 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="467" y1="42" x2="467" y2="60.0639"/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="467,67.5639 462,57.5639 467,60.0639 472,57.5639 "/>
+  </g>
+</svg>
