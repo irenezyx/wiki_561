@@ -25,4 +25,4 @@ A Flowchart is a graphical representation of a process. It has boxes of differen
 
 #### Below is an example of a flowchart for adding two numbers A and B
 
-![Sample diagram](Flowchart_IM_gandhi_amit.svg)
+![Flowchart_IM](Flowchart_gandhi_amit.svg)
