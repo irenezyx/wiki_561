@@ -32,3 +32,5 @@ aren’t always the right angles. Triangles are named, depending upon the type o
 
 ## 5. Parallelogram
 ###   A parallelogram is another in the geometric shapes in which the opposite side of the shape are parallel.
+
+![Shapes](Geometric.svg)
