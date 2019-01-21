@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="32cm" height="22cm" viewBox="6 19 627 426" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <polygon style="fill: #ffffff" points="21,117 131,117 76,23 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="21,117 131,117 76,23 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="76" y="98.5">
+      <tspan x="76" y="98.5"></tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="24,418 128,418 24,343 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="24,418 128,418 24,343 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" points="24,418 128,418 24,343 "/>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="55,179 91,259 19,259 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="55,179 91,259 19,259 "/>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="139" y1="180" x2="196" y2="261"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="197" y1="261" x2="312" y2="261"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="139" y1="179" x2="311" y2="260"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="180" y1="420" x2="303" y2="421"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="180" y1="421" x2="240" y2="339"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="301" y1="420" x2="241" y2="340"/>
+  <g>
+    <rect style="fill: #ffffff" x="360.645" y="21" width="75.4032" height="77.9167"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="360.645" y="21" width="75.4032" height="77.9167"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="360.645" y="21" width="75.4032" height="77.9167"/>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="565.5,20 631,20 565.5,99 500,99 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="565.5,20 631,20 565.5,99 500,99 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="565.5,20 631,20 565.5,99 500,99 "/>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="553" cy="202.25" rx="50" ry="50"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="553" cy="202.25" rx="50" ry="50"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="553" cy="202.25" rx="50" ry="50"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="342" y="180" width="141" height="67"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="342" y="180" width="141" height="67"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="412.5" y="218.3">
+      <tspan x="412.5" y="218.3"></tspan>
+    </text>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="48" y="139">
+    <tspan x="48" y="139">Triangle</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="168" y="280">
+    <tspan x="168" y="280">Obtuse Angled Triangle</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="25" y="271">
+    <tspan x="25" y="271"></tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="13" y="280">
+    <tspan x="13" y="280">Acute Angled Triangle</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="20" y="423">
+    <tspan x="20" y="423"></tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="14" y="440">
+    <tspan x="14" y="440">Right Angled Triangle</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="183" y="441">
+    <tspan x="183" y="441">Equiangular Triangle</tspan>
+  </text>
+  <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 220,262 A 28.8746,28.8746 0 0 0 185,245"/>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="197" y="238">
+    <tspan x="197" y="238">&gt; 90</tspan>
+  </text>
+  <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 200,422 A 15.9126,15.9126 0 0 0 190,410"/>
+  <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 290,407 A 37.0386,37.0386 0 0 0 284,420"/>
+  <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 232,348 A 8.67857,8.67857 0 0 0 249,349"/>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="235" y="366">
+    <tspan x="235" y="366">60</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="197" y="414">
+    <tspan x="197" y="414">60</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="269" y="415">
+    <tspan x="269" y="415">60</tspan>
+  </text>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="22" y1="405" x2="36" y2="405"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="35" y1="403" x2="34" y2="417"/>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="7" y="407">
+    <tspan x="7" y="407">90</tspan>
+  </text>
+  <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 26.6479,260.438 A 5.26464,5.26464 0 0 0 20.7616,252.029"/>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="93.0787" y="251.188">
+    <tspan x="93.0787" y="251.188">&lt;90</tspan>
+  </text>
+  <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 88.8742,250.348 A 6.62872,6.62872 0 0 0 85.5106,261.279"/>
+  <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 48.5112,190.644 A 6.09006,6.09006 0 0 0 60.2837,188.121"/>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="371.415" y="119.168">
+    <tspan x="371.415" y="119.168">Square</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="504.277" y="120.85">
+    <tspan x="504.277" y="120.85">Parallelogram</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="378.983" y="267.165">
+    <tspan x="378.983" y="267.165">Rectangle</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="532.026" y="270.529">
+    <tspan x="532.026" y="270.529">Circle</tspan>
+  </text>
+</svg>
