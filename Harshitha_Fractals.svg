@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="21cm" height="16cm" viewBox="397 100 416 312" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <polygon style="fill: #ffffff" points="449.5,105 500,203 399,203 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="449.5,105 500,203 399,203 "/>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="406,288.75 439.667,288.75 456.5,259 473.333,288.75 507,288.75 490.167,318.5 507,348.25 473.333,348.25 456.5,378 439.667,348.25 406,348.25 422.833,318.5 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="406,288.75 439.667,288.75 456.5,259 473.333,288.75 507,288.75 490.167,318.5 507,348.25 473.333,348.25 456.5,378 439.667,348.25 406,348.25 422.833,318.5 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="406,288.75 439.667,288.75 456.5,259 473.333,288.75 507,288.75 490.167,318.5 507,348.25 473.333,348.25 456.5,378 439.667,348.25 406,348.25 422.833,318.5 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="702.484" y="101.133" width="94.6452" height="97.8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="702.484" y="101.133" width="94.6452" height="97.8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="702.484" y="101.133" width="94.6452" height="97.8"/>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="693.5,324.25 710.286,307.464 710.286,282.286 735.464,282.286 752.25,265.5 769.036,282.286 794.214,282.286 794.214,307.464 811,324.25 794.214,341.036 794.214,366.214 769.036,366.214 752.25,383 735.464,366.214 710.286,366.214 710.286,341.036 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="693.5,324.25 710.286,307.464 710.286,282.286 735.464,282.286 752.25,265.5 769.036,282.286 794.214,282.286 794.214,307.464 811,324.25 794.214,341.036 794.214,366.214 769.036,366.214 752.25,383 735.464,366.214 710.286,366.214 710.286,341.036 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="693.5,324.25 710.286,307.464 710.286,282.286 735.464,282.286 752.25,265.5 769.036,282.286 794.214,282.286 794.214,307.464 811,324.25 794.214,341.036 794.214,366.214 769.036,366.214 752.25,383 735.464,366.214 710.286,366.214 710.286,341.036 "/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="428" y="229">
+    <tspan x="428" y="229">Triangle</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="429" y="409">
+    <tspan x="429" y="409">Six point star</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="731" y="226">
+    <tspan x="731" y="226">Square</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="713" y="408">
+    <tspan x="713" y="408">eight point star</tspan>
+  </text>
+</svg>
