@@ -5,7 +5,5 @@ Draft
 > testing again
 * another draft
 
-![Fractal Image]([[https://github.com/IS561/Sandbox.wiki/Harshitha_Fractals.svg]])
-
-![test image](https://github.com/IS561/Sandbox/Harshitha_Fractals.svg)
+![Fractal Image](Harshitha_Fractals.svg)
 
