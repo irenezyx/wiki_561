@@ -20,3 +20,4 @@ Behavioral diagrams show what should happen in a system. They describe how the o
 * Sequence Diagram
 ## Summary
 ![](file:///Users/saxue/Desktop/Diagram1.svg)
+
