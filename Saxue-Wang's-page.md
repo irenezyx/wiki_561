@@ -19,5 +19,7 @@ Behavioral diagrams show what should happen in a system. They describe how the o
 * Communication Diagram
 * Sequence Diagram
 ## Summary
-![](SaxueDiagram.svg)
+![List of UML Diagram Types](SaxueDiagram.svg)
+## Reference
+[UML Diagram Types Guide](https://creately.com/blog/diagrams/uml-diagram-types-examples/)
 
