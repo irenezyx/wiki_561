@@ -20,8 +20,8 @@ This can result in a curve that looks continous in a zoomed out view but can be 
 
 ### Dimensions
 > The number of sides after k iterations is:
-> $Num sides = 3*4^k$
-> $length of each sides = 3/original_side_length ^k
+>> $Num_sides = 3*4^k$
+>> $length_of_each_sides = 3/original_side_length^k$
 
 
 
