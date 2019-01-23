@@ -9,20 +9,15 @@ It is based on a paper titled "On a continuous curve without tangents, construct
 > Koch snowflake can be constructed as shown in the diagram below - Only 3 steps are shown
 * Start with an equilateral triangle
 * Divide each side into 3 parts
-* construct equilateral trangles in the middle parts
-* Repeat this step reccursively
+* construct equilateral triangles in the middle parts
+* Repeat the above step recursively
 
-This can result in a curve that looks continous in a zoomed out view but can be broken into discrete fractals when zoomed in
+This can result in a curve that looks continuous in a zoomed out view but can be broken into discrete fractals when zoomed in
 
 
 
 ![Fractal Image](Harshitha-koch_iteration.svg)
 
-### Dimensions
-> The number of sides after k iterations is:
-\cos (2\theta) = \cos^2 \theta - \sin^2 \theta
- $$ Num_sides = 3*4^k $$
- 
 
 
 
