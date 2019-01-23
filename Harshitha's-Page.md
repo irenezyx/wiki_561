@@ -21,5 +21,5 @@ This can result in a curve that looks continuous in a zoomed out view but can be
 
 
 
-> Animation illustration [https://en.wikipedia.org/wiki/Koch_snowflake#/media/File:Kochsim.gif]
+> [Animated illustration] (https://en.wikipedia.org/wiki/Koch_snowflake#/media/File:Kochsim.gif)
 
