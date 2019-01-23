@@ -20,9 +20,9 @@ This can result in a curve that looks continous in a zoomed out view but can be 
 
 ### Dimensions
 > The number of sides after k iterations is:
+\cos (2\theta) = \cos^2 \theta - \sin^2 \theta
  $$ Num_sides = 3*4^k $$
- $$ length_of_each_sides = 3/original_side_length^k $$
-
+ 
 
 
 
