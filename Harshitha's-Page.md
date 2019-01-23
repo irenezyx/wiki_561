@@ -20,16 +20,15 @@ This can result in a curve that looks continuous in a zoomed out view but can be
 
 
 # Dimension 
-h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
 
 With every iteration, the number of sides of the Koch snowflake increases by a factor of 4, therefore the number of sides after k iterations is given by:
 
-N<sub>k</sub> = 3 x 4<sup>n</sup>
+N<sub>k</sub> = 3 x 4<sup>k</sup>
 
 
-If the original equilateral triangle has sides of length s, the length of each side of the snowflake after n iterations is:
+If the original equilateral triangle has sides of length s, the length of each side of the snowflake after k iterations are:
 
-S<sub>k</sub> = s/3<sup>n</sup>
+S<sub>k</sub> = s/3<sup>k</sup>
 
 
 [Animated illustration](https://en.wikipedia.org/wiki/Koch_snowflake#/media/File:Kochsim.gif)
