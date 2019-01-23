@@ -32,7 +32,6 @@ If the original equilateral triangle has sides of length s, the length of each s
 S<sub>k</sub> = s/3<sup>n</sup>
 
 
-
 [Animated illustration](https://en.wikipedia.org/wiki/Koch_snowflake#/media/File:Kochsim.gif)
 
 ## Reference: 
