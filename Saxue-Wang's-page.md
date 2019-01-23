@@ -19,5 +19,5 @@ Behavioral diagrams show what should happen in a system. They describe how the o
 * Communication Diagram
 * Sequence Diagram
 ## Summary
-![](Diagram1.svg)
+![](SaxueDiagram.svg)
 
