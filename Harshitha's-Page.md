@@ -19,6 +19,24 @@ This can result in a curve that looks continuous in a zoomed out view but can be
 ![Fractal Image](Harshitha-koch_iteration.svg)
 
 
+# Dimension 
+h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
+
+With every iteration, the number of sides of the Koch snowflake increases by a factor of 4, therefore the number of sides after k iterations is given by:
+
+N<sub>k</sub> = 3 x 4<sup>n</sup>
+
+
+If the original equilateral triangle has sides of length s, the length of each side of the snowflake after n iterations is:
+
+S<sub>k</sub> = s/3<sup>n</sup>
+
+
 
 [Animated illustration](https://en.wikipedia.org/wiki/Koch_snowflake#/media/File:Kochsim.gif)
+
+## Reference: 
+
+1. [Wikipedia](https://en.wikipedia.org/wiki/Koch_snowflake)
+2. [Equation Markdown](https://stackoverflow.com/questions/11256433/how-to-show-math-equations-in-general-githubs-markdownnot-githubs-blog)
 
