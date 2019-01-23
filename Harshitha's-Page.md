@@ -1,7 +1,7 @@
 
 # Koch snowflake
 
-Koch Snowflake is a special [fractal] (https://en.wikipedia.org/wiki/Fractal).
+Koch Snowflake is a special [Fractal](https://en.wikipedia.org/wiki/Fractal).
 
 [Niels Fabian Helge von Koch](https://en.wikipedia.org/wiki/Helge_von_Koch), a swedish noble gave his name to one of the early fractal curves to be described - [Koch snowflake](https://en.wikipedia.org/wiki/Koch_snowflake)
 It is based on a paper titled "On a continuous curve without tangents, constructible from elementary geometry".
