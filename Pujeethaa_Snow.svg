@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="16cm" height="20cm" viewBox="307 15 306 391" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <ellipse style="fill: #ffffff" cx="475.265" cy="45.8825" rx="73.7351" ry="30.1175"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" cx="475.265" cy="45.8825" rx="73.7351" ry="30.1175"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="475.265" y="50.6825">
+      <tspan x="475.265" y="50.6825">Snow Storm Occurs</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="475.265" y1="76" x2="475.053" y2="117.5"/>
+    <polygon style="fill: #000000" points="470.054,117.475 475.003,127.5 480.053,117.526 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="470.054,117.475 475.003,127.5 480.053,117.526 "/>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="480" cy="150.382" rx="86.4701" ry="21.6175"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" cx="480" cy="150.382" rx="86.4701" ry="21.6175"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="480" y="155.182">
+      <tspan x="480" y="155.182">Snow &gt; 12 Inches</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="480" y1="172" x2="531.575" y2="223.575"/>
+    <polygon style="fill: #000000" points="528.04,227.111 538.646,230.646 535.111,220.04 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="528.04,227.111 538.646,230.646 535.111,220.04 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="480" y1="172" x2="423.041" y2="222.559"/>
+    <polygon style="fill: #000000" points="419.721,218.819 415.562,229.197 426.36,226.298 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="419.721,218.819 415.562,229.197 426.36,226.298 "/>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="383.14" cy="257.976" rx="74.8605" ry="31.0239"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" cx="383.14" cy="257.976" rx="74.8605" ry="31.0239"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="383.14" y="262.776">
+      <tspan x="383.14" y="262.776">Red Snow Warning</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 404.688 178 L 431.438,178 C 435.131,178 438.125,182.701 438.125,188.5 C 438.125,194.299 435.131,199 431.438,199 L 404.688,199 C 400.994,199 398,194.299 398,188.5 C 398,182.701 400.994,178 404.688,178z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 404.688 178 L 431.438,178 C 435.131,178 438.125,182.701 438.125,188.5 C 438.125,194.299 435.131,199 431.438,199 L 404.688,199 C 400.994,199 398,194.299 398,188.5 C 398,182.701 400.994,178 404.688,178"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="418.063" y="193.5">
+      <tspan x="418.063" y="193.5">YES</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 523.088 177.5 L 549.837,177.5 C 553.531,177.5 556.525,182.201 556.525,188 C 556.525,193.799 553.531,198.5 549.837,198.5 L 523.088,198.5 C 519.394,198.5 516.4,193.799 516.4,188 C 516.4,182.201 519.394,177.5 523.088,177.5z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 523.088 177.5 L 549.837,177.5 C 553.531,177.5 556.525,182.201 556.525,188 C 556.525,193.799 553.531,198.5 549.837,198.5 L 523.088,198.5 C 519.394,198.5 516.4,193.799 516.4,188 C 516.4,182.201 519.394,177.5 523.088,177.5"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="536.462" y="193">
+      <tspan x="536.462" y="193">NO</tspan>
+    </text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="542.52" cy="259.765" rx="70.4801" ry="27.235"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" cx="542.52" cy="259.765" rx="70.4801" ry="27.235"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="542.52" y="264.565">
+      <tspan x="542.52" y="264.565">Snow &gt; 8 inches</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="542.52" y1="287" x2="487.229" y2="337.629"/>
+    <polygon style="fill: #000000" points="483.852,333.941 479.854,344.382 490.605,341.316 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="483.852,333.941 479.854,344.382 490.605,341.316 "/>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 463.087 301.5 L 489.837,301.5 C 493.531,301.5 496.525,306.201 496.525,312 C 496.525,317.799 493.531,322.5 489.837,322.5 L 463.087,322.5 C 459.394,322.5 456.4,317.799 456.4,312 C 456.4,306.201 459.394,301.5 463.087,301.5z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 463.087 301.5 L 489.837,301.5 C 493.531,301.5 496.525,306.201 496.525,312 C 496.525,317.799 493.531,322.5 489.837,322.5 L 463.087,322.5 C 459.394,322.5 456.4,317.799 456.4,312 C 456.4,306.201 459.394,301.5 463.087,301.5"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="476.462" y="317">
+      <tspan x="476.462" y="317">YES</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="542.52" y1="287" x2="553.565" y2="332.415"/>
+    <polygon style="fill: #000000" points="548.707,333.596 555.928,342.131 558.423,331.233 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="548.707,333.596 555.928,342.131 558.423,331.233 "/>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 566.088 304.5 L 592.838,304.5 C 596.531,304.5 599.525,309.201 599.525,315 C 599.525,320.799 596.531,325.5 592.838,325.5 L 566.088,325.5 C 562.394,325.5 559.4,320.799 559.4,315 C 559.4,309.201 562.394,304.5 566.088,304.5z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 566.088 304.5 L 592.838,304.5 C 596.531,304.5 599.525,309.201 599.525,315 C 599.525,320.799 596.531,325.5 592.838,325.5 L 566.088,325.5 C 562.394,325.5 559.4,320.799 559.4,315 C 559.4,309.201 562.394,304.5 566.088,304.5"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="579.463" y="320">
+      <tspan x="579.463" y="320">NO</tspan>
+    </text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="561.845" cy="366.459" rx="47.1552" ry="23.5414"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" cx="561.845" cy="366.459" rx="47.1552" ry="23.5414"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="561.845" y="371.259">
+      <tspan x="561.845" y="371.259">Normal</tspan>
+    </text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="448.555" cy="373.041" rx="63.8318" ry="31.8669"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" cx="448.555" cy="373.041" rx="63.8318" ry="31.8669"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="448.555" y="369.841">
+      <tspan x="448.555" y="369.841">Amber Snow</tspan>
+      <tspan x="448.555" y="385.841">Warning</tspan>
+    </text>
+  </g>
+</svg>
