@@ -1,5 +1,6 @@
-# Github - Forking and updating a repo
+## Github - Forking and updating a repo
 
+Let's say there's a programmer named Joe who built a game you would like to improve, and he is hosting his code in a GitHub repository. Here's what you do:
 
 <img src="Linxi_diagram.svg" alt="drawing" width="200"/>
 
