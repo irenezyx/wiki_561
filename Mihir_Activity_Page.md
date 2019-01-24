@@ -16,7 +16,7 @@ Greetings [From Informatics](https://www.informatics.illinois.edu/) and welcome 
 * End node: Represents the final step in the activity. The end node is represented by an outlined black circle.
 
 ## Activity diagram examples
-<p>Activity diagrams map out process flows in a way that's easy to understand. Consider the two examples below when it comes to creating UML activity diagrams.</p>
+<p>Activity diagrams map out process flows in a way that's easy to understand. Consider the example below when it comes to creating UML activity diagrams.</p>
 
 ![Activity Diagram](mihirsj2_assignment1.svg)
 
