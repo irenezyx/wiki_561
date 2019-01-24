@@ -9,7 +9,7 @@ Greetings [From Informatics](https://www.informatics.illinois.edu/) and welcome 
 ## Activity diagram examples
 <p> </p>
 
-![Activity Diagram](Adi.svg)
+![Activity Diagram](Adit.svg)
 
 ## Source
 
