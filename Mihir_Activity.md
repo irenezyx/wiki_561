@@ -22,4 +22,4 @@ Greetings [From Informatics](https://www.informatics.illinois.edu/) and welcome 
 
 ## Source
 
-[UML Activity Diagram Tutorial] (https://www.lucidchart.com/pages/uml-activity-diagram?a=0)
+[UML Activity Diagram Tutorial](https://www.lucidchart.com/pages/uml-activity-diagram?a=0)
