@@ -1,5 +1,5 @@
 ## SNOW STORMS
-**Snow** refers to forms of ice crystals that precipitate from the atmosphere (usually from clouds) and undergo changes on the Earth's surface. Snowstorms organize and develop by feeding on sources of atmospheric moisture and cold air.
+**Snow**[Snow](https://en.wikipedia.org/wiki/Snow) refers to forms of ice crystals that precipitate from the atmosphere (usually from clouds) and undergo changes on the Earth's surface. Snowstorms organize and develop by feeding on sources of atmospheric moisture and cold air.
 
 A **winter storm** is an event in which varieties of precipitation are formed that only occur at low temperatures, such as snow or sleet,or a rainstorm where ground temperatures are low enough to allow ice to form (i.e. freezing rain). In temperate continental climates, these storms are not necessarily restricted to the winter season, but may occur in the late autumn and early spring as well. Very rarely, they may form in summer, though it would have to be an abnormally cold summer, such as the summer of 1816 in the Northeastern United States.
 
