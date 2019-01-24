@@ -19,4 +19,4 @@ Respect, self-esteem, status, recognition, strength, freedom
 5. **Self-actualization**
 Desire to become the most that one can be
 
-![Maslow](JoyLiang_homework1.svg)
+![Fractal Image](Harshitha-koch_iteration.svg)
