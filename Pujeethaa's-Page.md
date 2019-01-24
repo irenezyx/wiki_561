@@ -5,9 +5,7 @@ A **winter storm** is an event in which varieties of precipitation are formed th
 
 **Snowstorms** are storms where large amounts of snow fall. Two inches (5 cm) of snow is enough to create serious disruptions to traffic and school transport (because of the difficulty to drive and maneuver the school buses on slick roads).Snowfalls in excess of 6 inches (15 cm) are usually universally disruptive.
 
-**Snow Storm Details** 
-
-## Flow Chart
+**Snow Storm Details Flow Chart** 
 
 ![Snow](Pujeethaa_Snow.svg)
 
