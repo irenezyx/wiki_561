@@ -1,6 +1,8 @@
 # Github - Forking and updating a repo
 
 
+<img src="Linxi_diagram.svg" alt="drawing" width="200"/>
+
 1.    Fork his repo: This is a GitHub operation, in which you are making a copy of Joe's repository (including the files, commit history, issues, and more). This repository now lives in your GitHub account. Nothing has yet happened to your local computer.
 
 2.    Clone your repo: This is a Git operation, in which you are using Git to tell GitHub "please send me a copy of my repo." The repo is now stored on your local computer.
