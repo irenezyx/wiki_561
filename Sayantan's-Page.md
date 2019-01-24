@@ -14,4 +14,4 @@ One instance of an entity (A) is associated with zero, one or many instances of 
 3. Many-to-Many
 One instance of an entity (A) is associated with one, zero or many instances of another entity (B), and one instance of entity B is associated with one, zero or many instances of entity A. For example, for a company in which all of its employees work on multiple projects, each instance of an employee (A) is associated with many instances of a project (B), and at the same time, each instance of a project (B) has multiple employees (A) associated with it.
 
-![Entity-Relationship Model](sayantan_diagram.svg)
+![ER Model](sayantan_diagram.svg)
