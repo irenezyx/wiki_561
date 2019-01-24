@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="7cm" height="13cm" viewBox="4319 -31 135 246" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="4320.25" y="31.5" width="93" height="100"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="4320.25" y="31.5" width="93" height="100"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="4366.75" y="85.4">
+      <tspan x="4366.75" y="85.4"></tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="4336.25" y="3.5" width="96" height="104"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="4336.25" y="3.5" width="96" height="104"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="4384.25" y="59.4">
+      <tspan x="4384.25" y="59.4"></tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="4352.25" y="-29.5" width="100" height="110"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="4352.25" y="-29.5" width="100" height="110"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="4402.25" y="29.4">
+      <tspan x="4402.25" y="29.4"></tspan>
+    </text>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="4438.25" y="194.5">
+    <tspan x="4438.25" y="194.5"></tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="4454.25" y="190.5">
+    <tspan x="4454.25" y="190.5"></tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="4327.25" y="145.5">
+    <tspan x="4327.25" y="145.5"></tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="4327.25" y="147.5">
+    <tspan x="4327.25" y="147.5">Squares </tspan>
+    <tspan x="4327.25" y="163.5">are reliable,</tspan>
+    <tspan x="4327.25" y="179.5">give stability</tspan>
+    <tspan x="4327.25" y="195.5">and suggest</tspan>
+    <tspan x="4327.25" y="211.5">order.</tspan>
+  </text>
+</svg>

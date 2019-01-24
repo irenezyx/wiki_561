@@ -1,25 +1,16 @@
 Greetings [From Informatics](https://www.informatics.illinois.edu/) and welcome to Aditya's page.
 
 ## Who is Gonzalo Higuain?
-<p>Chelsea' first choice centre forward</p>
+<p> In data warehousing and data marting, star schema is the simplest form of a dimensional model, with data organized into facts and dimensions. A fact is an event that is counted or measured (such as a sale or login), and a dimension contains reference information about the fact (such as date, product, or customer). A star schema is represented by surrounding each fact with its associated dimensions, and the resulting diagrams resembles a star. </p>
 
 ## Basic components of an activity diagram
-
-* Action: A step in the activity wherein the users or software perform a given task. In Lucidchart, actions are symbolized with round-edged rectangles.
-
-* Decision node: A conditional branch in the flow that is represented by a diamond. It includes a single input and two or more outputs.
-
-* Control flows: Another name for the connectors that show the flow between steps in the diagram.
-
-* Start node: Symbolizes the beginning of the activity. The start node is represented by a black circle.
-
-* End node: Represents the final step in the activity. The end node is represented by an outlined black circle.
+<p> The star schema consists of one or more fact tables referencing any number of dimension tables and is effective for handling simpler queries. They are optimized for querying large data sets and are used in data warehouses and data marts to support OLAP cubes, BI and analytic applications, and ad hoc queries. </p>
 
 ## Activity diagram examples
-<p>Activity diagrams map out process flows in a way that's easy to understand. Consider the example below when it comes to creating UML activity diagrams.</p>
+<p> </p>
 
-![Activity Diagram](Aditya_Diagram.svg)
+![Activity Diagram](Adi.svg)
 
 ## Source
 
-[UML Activity Diagram Tutorial](https://www.lucidchart.com/pages/uml-activity-diagram?a=0)
+[UML Activity Diagram Tutorial](https://www.logianalytics.com/resources/bi-encyclopedia/star-schema/)
