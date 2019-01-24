@@ -18,7 +18,7 @@ Greetings [From Informatics](https://www.informatics.illinois.edu/) and welcome 
 ## Activity diagram examples
 <p>Activity diagrams map out process flows in a way that's easy to understand. Consider the two examples below when it comes to creating UML activity diagrams.</p>
 
-![Activity Diagram](mihirsj2.svg)
+![Activity Diagram](mihirsj2_assignment1.svg)
 
 ## Source
 
