@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="22cm" height="25cm" viewBox="67 67 430 483" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="68" y="68" width="219" height="222"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="68" y="68" width="219" height="222"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="177.5" y="183.8">
+      <tspan x="177.5" y="183.8"></tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="417.393,109.893 496,180.947 417.393,252 338.787,180.947 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="417.393,109.893 496,180.947 417.393,252 338.787,180.947 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="417.393" y="185.747">
+      <tspan x="417.393" y="185.747"></tspan>
+    </text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="339.433" cy="446.966" rx="105.567" ry="102.034"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="339.433" cy="446.966" rx="105.567" ry="102.034"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="339.433" y="451.766">
+      <tspan x="339.433" y="451.766"></tspan>
+    </text>
+  </g>
+</svg>
