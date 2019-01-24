@@ -19,4 +19,4 @@ Respect, self-esteem, status, recognition, strength, freedom
 5. **Self-actualization**
 Desire to become the most that one can be
 
-![Fractal Image](JoyLiang_homework1.svg)
+![](C:\Users\liang\Documents\GitHub\Sandbox.wiki\JoyLiang_homework1.svg)
