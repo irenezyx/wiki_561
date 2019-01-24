@@ -2,7 +2,7 @@
 
 Let's say there's a programmer named Joe who built a game you would like to improve, and he is hosting his code in a GitHub repository. Here's what you do:
 
-<div style="text-align:center"><img src="Linxi_diagram.svg" alt="drawing" width="300"/></div>
+<img align="center" src="Linxi_diagram.svg" alt="drawing" width="200"/>
 
 1.    **Fork his repo**: This is a GitHub operation, in which you are making a copy of Joe's repository (including the files, commit history, issues, and more). This repository now lives in your GitHub account. Nothing has yet happened to your local computer.
 
