@@ -3,7 +3,7 @@
 
 A **winter storm** is an event in which varieties of precipitation are formed that only occur at low temperatures, such as snow or sleet,or a rainstorm where ground temperatures are low enough to allow ice to form (i.e. freezing rain). In temperate continental climates, these storms are not necessarily restricted to the winter season, but may occur in the late autumn and early spring as well. Very rarely, they may form in summer, though it would have to be an abnormally cold summer, such as the summer of 1816 in the Northeastern United States.
 
-**Snowstorms** are storms where large amounts of snow fall. Two inches (5 cm) of snow is enough to create serious disruptions to traffic and school transport (because of the difficulty to drive and maneuver the school buses on slick roads). Snowfalls in excess of 6 inches (15 cm) are usually universally disruptive.
+[Snowstorms](https://www.google.com/search?tbm=isch&q=Snowstorm+pictures+chicago+2019&chips=q:snowstorm+pictures+chicago+2019,online_chips:heavy+snow&usg=AI4_-kQgnqa4cTC-BVtitin_xqKMCNBnfw&sa=X&ved=0ahUKEwivtvLHp4XgAhWI5oMKHRkHDKAQ4lYIKygC&biw=1280&bih=617&dpr=1.5) are storms where large amounts of snow fall. Two inches (5 cm) of snow is enough to create serious disruptions to traffic and school transport (because of the difficulty to drive and maneuver the school buses on slick roads). Snowfalls in excess of 6 inches (15 cm) are usually universally disruptive.
 
 **Snow Storm Details Flow Chart** 
 
