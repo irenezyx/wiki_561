@@ -1,6 +1,4 @@
-**Maslow's Hierarchy of Needs** 
-
-[Wikipedia](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
+**[Maslow's Hierarchy of Needs]** (https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
 ***
 
 
