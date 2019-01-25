@@ -1,1 +1,1 @@
-<img src="SVG Dia.svg" alt="ALT TEXT"/>
+<img src="SVG Dia.svg" alt="ALT TEXT"/>_![file:///C:/Users/Administrator.BF-20170920PDVZ/Desktop/SVG%20Dia.svg](file:///C:/Users/Administrator.BF-20170920PDVZ/Desktop/SVG%20Dia.svg)_
