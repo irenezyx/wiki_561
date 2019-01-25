@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="15cm" height="13cm" viewBox="14 3 286 247" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="15" y="8" width="128" height="68"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="15" y="8" width="128" height="68"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="79" y="46.8">
+      <tspan x="79" y="46.8"></tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 173 5 L 299,5 L 299,85.8 L 236,106 L 173,85.8 L 173,5z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 173 5 L 299,5 L 299,85.8 L 236,106 L 173,85.8 L 173,5"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="236" y="50.4">
+      <tspan x="236" y="50.4"></tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 59.1667 169 L 183.833,169 C 201.046,169 215,186.909 215,209 C 215,231.091 201.046,249 183.833,249 L 59.1667,249 C 41.9538,249 28,231.091 28,209 C 28,186.909 41.9538,169 59.1667,169z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 59.1667 169 L 183.833,169 C 201.046,169 215,186.909 215,209 C 215,231.091 201.046,249 183.833,249 L 59.1667,249 C 41.9538,249 28,231.091 28,209 C 28,186.909 41.9538,169 59.1667,169"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="121.5" y="214">
+      <tspan x="121.5" y="214"></tspan>
+    </text>
+  </g>
+</svg>
