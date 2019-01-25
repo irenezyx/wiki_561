@@ -1,1 +1,1 @@
-![](C:\Users\Administrator.BF-20170920PDVZ\Desktop)
+<img src="SVG Dia.svg" alt="ALT TEXT"/>
