@@ -1,1 +1,0 @@
-<img src="SVG Dia.svg" alt="ALT TEXT"/>
