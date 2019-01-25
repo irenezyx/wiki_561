@@ -3,7 +3,7 @@
 I have found this [cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf) for github command, it is quite useful.
 
 ## This is the image：
-![simple SVG](F:\UIUC\IS561\week1\qiyuanxiao_page.svg)
+![simple SVG](qiyuanxiao_page.svg)
 
 ### This is item list
 1. _one_
