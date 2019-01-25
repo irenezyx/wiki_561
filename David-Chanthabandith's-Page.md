@@ -1,4 +1,4 @@
-# Vesica piscis
+# Vesica Piscis
 
 This is basically when two circles intersect and have the same radius. Most simple minded people would refer to it as a **Venn Diagram**.
 ## Want to know some funny alternatives names for **Vescia Piscis**?
