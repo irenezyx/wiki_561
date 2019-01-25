@@ -7,4 +7,5 @@ Well here you are:
 * Apparently [Wikipedia](https://en.wikipedia.org/wiki/Vesica_piscis) says that it resembles a "conjoined dual air bladder." Something you can find in fish I guess?
 * In Italian this shape is referred to as _mandoria_, which means "almond."
 
+### I couldn't get a Venn Diagram to work in Dia so here is a Circle.
 ![Image of Circle](DavidCCircle.svg)
