@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="12cm" height="28cm" viewBox="38 20 222 560" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="40" y="22" width="215" height="79"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="40" y="22" width="215" height="79"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="40.7" y="141.5" width="215" height="76.25"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="40.7" y="141.5" width="215" height="76.25"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="41.7" y="261.5" width="215" height="79"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="41.7" y="261.5" width="215" height="79"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="40.4" y="378" width="215" height="79"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="40.4" y="378" width="215" height="79"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="44.1" y="500.25" width="215" height="79"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="44.1" y="500.25" width="215" height="79"/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="77.2" y="183">
+    <tspan x="77.2" y="183">Buy the food ingredients</tspan>
+  </text>
+  <g>
+    <polygon style="fill: #ffffff" points="140.5,223.75 140.5,238.75 133,238.75 148,253.75 163,238.75 155.5,238.75 155.5,223.75 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="140.5,223.75 140.5,238.75 133,238.75 148,253.75 163,238.75 155.5,238.75 155.5,223.75 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="140.5,223.75 140.5,238.75 133,238.75 148,253.75 163,238.75 155.5,238.75 155.5,223.75 "/>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="141.614,346.25 141.614,361.25 134.114,361.25 149.114,376.25 164.114,361.25 156.614,361.25 156.614,346.25 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="141.614,346.25 141.614,361.25 134.114,361.25 149.114,376.25 164.114,361.25 156.614,361.25 156.614,346.25 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="141.614,346.25 141.614,361.25 134.114,361.25 149.114,376.25 164.114,361.25 156.614,361.25 156.614,346.25 "/>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="141.314,465.75 141.314,480.75 133.814,480.75 148.814,495.75 163.814,480.75 156.314,480.75 156.314,465.75 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="141.314,465.75 141.314,480.75 133.814,480.75 148.814,495.75 163.814,480.75 156.314,480.75 156.314,465.75 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="141.314,465.75 141.314,480.75 133.814,480.75 148.814,495.75 163.814,480.75 156.314,480.75 156.314,465.75 "/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="71.2" y="304">
+    <tspan x="71.2" y="304">Prepare the food ingredients</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="105.9" y="420.5">
+    <tspan x="105.9" y="420.5">Cook the food</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="95.6" y="541.75">
+    <tspan x="95.6" y="541.75">Plating and serving</tspan>
+  </text>
+</svg>
