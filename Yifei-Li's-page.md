@@ -9,7 +9,7 @@
 - [Universal CityWalk™](https://www.universalorlando.com/web/en/us/theme-parks/citywalk/index.html)
   - This is where it all comes together. This is where unforgettable family fun meets restaurants that don't just make you say "Yum," but "Wow." The one place where the dining tastes of every member of the family and entertainment everyone can enjoy all intersect. It's everything you're looking for. And anything but ordinary. Universal CityWalk, The Epicenter of Awesome. *Free self-parking after 6 pm for all guests.* (Not valid during Halloween Horror Nights™. Additional restrictions may apply and are subject to change without notice.)
 
-##Buy Tickets
+## Buy Tickets
 To buy tickets [online](https://www.universalorlando.com/web-store/en/us/park-tickets/index.html?days=3&flr=0), please follow the diagram below (this is an example of buying tickets of Universal Studios Florida™):
 <img src="yifeili_week2.svg" alt="ALT TEXT"/>
 
