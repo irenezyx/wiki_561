@@ -7,9 +7,9 @@
 - [Universal's Volcano Bay™](https://www.universalorlando.com/web/en/us/theme-parks/volcano-bay/index.html)
   - At this water theme park, thrills and relaxation flow in perfect harmony. And right now, the palm trees are still swaying, the Florida sun is shining and the crowds are lighter. It’s the perfect place to step back into summer. Here, the TapuTapu™ wearable lets you hold your place in the ride lines and reveal wondrous surprises with just a wave of your wrist. *During the cooler months, the water here is still delightfully warm to 85°.*
 - [Universal CityWalk™](https://www.universalorlando.com/web/en/us/theme-parks/citywalk/index.html)
-  - This is where it all comes together. This is where unforgettable family fun meets restaurants that don't just make you say "Yum," but "Wow." The one place where the dining tastes of every member of the family and entertainment everyone can enjoy all intersect. It's everything you're looking for. And anything but ordinary. Universal CityWalk, The Epicenter of Awesome. **Free self-parking after 6 pm for all guests.** (Not valid during Halloween Horror Nights™. Additional restrictions may apply and are subject to change without notice.)
+  - This is where it all comes together. This is where unforgettable family fun meets restaurants that don't just make you say "Yum," but "Wow." The one place where the dining tastes of every member of the family and entertainment everyone can enjoy all intersect. It's everything you're looking for. And anything but ordinary. Universal CityWalk, The Epicenter of Awesome. *Free self-parking after 6 pm for all guests.* (Not valid during Halloween Horror Nights™. Additional restrictions may apply and are subject to change without notice.)
 
-To buy tickets online, please follow the diagram below:
+To buy tickets [online](), please follow the diagram below:
 <img src="yifeili_week2.svg" alt="ALT TEXT"/>
 
 <!-- This line can also add the svg diagram ![svg diagram](yifeili_week2.svg) -->
