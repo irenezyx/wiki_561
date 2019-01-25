@@ -1,25 +1,83 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
-<svg width="22cm" height="25cm" viewBox="67 67 430 483" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="9cm" height="22cm" viewBox="386 -207 163 432" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <g>
-    <rect style="fill: #ffffff" x="68" y="68" width="219" height="222"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="68" y="68" width="219" height="222"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="177.5" y="183.8">
-      <tspan x="177.5" y="183.8"></tspan>
+    <rect style="fill: #ffffff" x="405" y="-205" width="123" height="42"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="405" y="-205" width="123" height="42"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="466.5" y="-179.2">
+      <tspan x="466.5" y="-179.2">Theme Parks</tspan>
     </text>
   </g>
   <g>
-    <polygon style="fill: #ffffff" points="417.393,109.893 496,180.947 417.393,252 338.787,180.947 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="417.393,109.893 496,180.947 417.393,252 338.787,180.947 "/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="417.393" y="185.747">
-      <tspan x="417.393" y="185.747"></tspan>
+    <rect style="fill: #ffffff" x="387.575" y="-132" width="160.85" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="387.575" y="-132" width="160.85" height="40"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="468" y="-107.2">
+      <tspan x="468" y="-107.2">Universal Studios Florida</tspan>
     </text>
   </g>
   <g>
-    <ellipse style="fill: #ffffff" cx="339.433" cy="446.966" rx="105.567" ry="102.034"/>
-    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="339.433" cy="446.966" rx="105.567" ry="102.034"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="339.433" y="451.766">
-      <tspan x="339.433" y="451.766"></tspan>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="467.683" y1="-142.995" x2="467.135" y2="-161.999"/>
+    <polygon style="fill: #000000" points="462.685,-142.851 467.971,-133 472.681,-143.14 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="462.685,-142.851 467.971,-133 472.681,-143.14 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="398" y="-64" width="139" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="398" y="-64" width="139" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="467.5" y="-40.2">
+      <tspan x="467.5" y="-40.2">Explore Tickets</tspan>
     </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="467.615" y1="-74.9994" x2="467.781" y2="-90.9941"/>
+    <polygon style="fill: #000000" points="462.615,-75.0515 467.51,-64.9999 472.614,-74.9473 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="462.615,-75.0515 467.51,-64.9999 472.614,-74.9473 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="404" y="-3" width="123" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="404" y="-3" width="123" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="465.5" y="20.8">
+      <tspan x="465.5" y="20.8">Tickets</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="466.023" y1="-13.9875" x2="466.555" y2="-25.1484"/>
+    <polygon style="fill: #000000" points="461.029,-14.2254 465.548,-3.99887 471.018,-13.7497 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="461.029,-14.2254 465.548,-3.99887 471.018,-13.7497 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="411.5" y="59" width="107" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="411.5" y="59" width="107" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="465" y="82.8">
+      <tspan x="465" y="82.8">Express Passes</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="465.25" y1="47.0048" x2="465.339" y2="35.9956"/>
+    <polygon style="fill: #000000" points="460.25,46.9644 465.169,57.0044 470.25,47.0451 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="460.25,46.9644 465.169,57.0044 470.25,47.0451 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="438.575" y="123" width="56.85" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="438.575" y="123" width="56.85" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="467" y="146.8">
+      <tspan x="467" y="146.8">Extras</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="466.031" y1="110.998" x2="465.625" y2="98.0078"/>
+    <polygon style="fill: #000000" points="461.034,111.154 466.344,120.993 471.029,110.841 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="461.034,111.154 466.344,120.993 471.029,110.841 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="428.85" y="186" width="74.3" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="428.85" y="186" width="74.3" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="466" y="209.8">
+      <tspan x="466" y="209.8">Checkout</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="466.492" y1="173.999" x2="466.682" y2="162.003"/>
+    <polygon style="fill: #000000" points="461.493,173.919 466.333,183.997 471.491,174.078 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="461.493,173.919 466.333,183.997 471.491,174.078 "/>
   </g>
 </svg>
