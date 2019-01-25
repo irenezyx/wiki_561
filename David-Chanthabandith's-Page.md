@@ -9,4 +9,4 @@ Well here you are:
 
 ### I couldn't get a Venn Diagram to work in Dia so here is a Circle.
 
-![Circle](DavidCCircle.svg)
+<img src="DavidCCircle.svg" width="200px" height="200px" alt="ALT TEXT" />
