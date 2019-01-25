@@ -11,6 +11,7 @@
 
 ## Buy Tickets
 To buy tickets [online](https://www.universalorlando.com/web-store/en/us/park-tickets/index.html?days=3&flr=0), please follow the diagram below (this is an example of buying tickets of Universal Studios Florida™):
+
 <img src="yifeili_week2.svg" alt="ALT TEXT"/>
 
 <!-- This line can also add the svg diagram ![svg diagram](yifeili_week2.svg) -->
