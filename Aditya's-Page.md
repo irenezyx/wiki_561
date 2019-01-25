@@ -3,7 +3,7 @@ Greetings [From Informatics](https://www.informatics.illinois.edu/) and welcome 
 ## Use Shapes to Make Your Designs Stand Out
 <p> Conscious use of shapes can help send the right message about your brand and keep your visual marketing strategy consistent. Learn how different shapes convey hidden meanings and feelings so that you can choose the best shape combinations for your designs. </p>
 
-## Basic components of an activity diagram
+## Basic types of space
 
 * Geometric: These are the most commonly used shapes. We are introduced to them as kids in school.
 
@@ -11,10 +11,10 @@ Greetings [From Informatics](https://www.informatics.illinois.edu/) and welcome 
 
 * Abstract flows: These are representations of everyday objects and people. They can also be simplified renditions of actions and processes.
 
-## Activity diagram examples
+## Geometric shape examples
 <p> Shapes represent ideas and feelings </p>
 
-![Activity Diagram](Aditya_Diagram.svg)
+![Geometry_Diagram](Aditya_Diagram.svg)
 
 ## Source
 
