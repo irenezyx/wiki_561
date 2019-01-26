@@ -9,7 +9,7 @@ Hello, welcome to Yixin Zhang's page! I'd like to present a part of ***Inception
 The particular incarnation of ***Inception*** used in the [ILSVRC14](http://www.image-net.org/challenges/LSVRC/2014/) is ***GoogLeNet***, the name of which is an homage to Yann LeCun's pioneering [LeNet 5 network](http://yann.lecun.com/exdb/publis/pdf/lecun-89e.pdf).
 
 ## Inception Module
-Inception module is a key part of ***Inception*** architecture. According to [Udacity's Deep Learning Course](https://www.udacity.com/course/deep-learning--ud730), the main idea of inception module is that, for each layer, people don't need to decide what type of convolution to use. Instead, both 3 * 3 and 5 * 5 convolutions are done in parallel and concatenated before going to the next layer, i.e., the model will "learn" to pick the best itself.
+Inception module is a key part of ***Inception*** architecture. According to [Udacity's Deep Learning Course](https://www.udacity.com/course/deep-learning--ud730), the main idea of inception module is that, for each layer, people don't need to decide what type of convolution to use. Instead, both 3\*3 and 5\*5 convolutions are done in parallel and concatenated before going to the next layer, i.e., the model will "learn" to pick the best itself.
 
 The inception module is depicted as below:
 
